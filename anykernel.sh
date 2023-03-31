@@ -4,15 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=nekokawai by ninja (powered by AnyKernel3)
+kernel.string=Finix by ninja(https://t.me/xylrand) (powered by AnyKernel3)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=spaced
-device.name2=RMX3151
-device.name3=RMX3286
+device.name1=j8y18lte
 supported.versions=
 supported.patchlevels=
 '; } # end properties
